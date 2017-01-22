@@ -9,9 +9,13 @@
 
 # Visual Studio #
 #################
+.suo
+*.VC.db
+*.VC.VC.opendb
 *.sdf
 *.sln
 *.v12.suo
+*.v14.suo
 *.exp
 *.ilk
 *.pdb
